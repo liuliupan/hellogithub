@@ -1,5 +1,6 @@
 # hellogithub
 hello git
+<<<<<<< HEAD
 
 
 我做了我修改一点修改，后来
@@ -9,3 +10,5 @@ hello git
 不少意思nihaonihaoniaho，我又修改   你修改了
 
 
+=======
+>>>>>>> parent of 25f816d... rrrr
