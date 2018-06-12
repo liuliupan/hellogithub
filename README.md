@@ -8,7 +8,7 @@ hello git
 <<<<<<< HEAD
 我做了我修改一点修改
 不少意思nihaonihaoniaho，我又修改   你修改了
-
+呦呦呦uyupuypuu与噗噗噗修改了一个bug修改了一个bug修改了一个bug修改了一个bug修改了一个bug修改了一个bugs
 修改了一个bug修改了一个bug修改了一个bug修改了一个bug修改了一个bug修改了一个bugs
 =======
 >>>>>>> parent of 25f816d... rrrr
